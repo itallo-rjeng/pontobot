@@ -1,0 +1,20 @@
+# Ignorar diretórios e arquivos do Windows
+/Ambiente de Impressão/
+/Ambiente de Rede/
+/Configurações Locais/
+/Cookies/
+/Dados de Aplicativos/
+/Documents/Meus Vídeos/
+/Documents/Minhas Imagens/
+/Documents/Minhas Músicas/
+/Menu Iniciar/
+/Meus Documentos/
+/Modelos/
+/Recent/
+/SendTo/
+/AppData/
+*.log
+*.tmp
+
+# Ignorar repositório do Git caso precise reinicializar
+/.git
